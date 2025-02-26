@@ -28,6 +28,8 @@ This is a car race game built using JavaScript and HTML. Over time, the game has
 * **Score**: Your score increases for each obstacle you successfully avoid
 * **Speed**: The game gets progressively faster as your score increases
 
+https://github.com/user-attachments/assets/547fad7c-549f-43d1-9024-36f4c26129a5
+
 ---
 
 ### Prompt 2: Car Sticker and Road Improvements
@@ -37,6 +39,8 @@ This is a car race game built using JavaScript and HTML. Over time, the game has
 * **Car emojis** instead of blocks for obstacles
 * **Smoother movements** and better collision detection for a more immersive experience
 
+https://github.com/user-attachments/assets/af06cc32-fb02-4ff1-808b-1d30ea9e7096
+
 ---
 ### Prompt 3: Larger and Upward-Facing Cars
 #### Result: I've made the following changes to the game:
@@ -45,6 +49,8 @@ This is a car race game built using JavaScript and HTML. Over time, the game has
 2. **Changed the car emoji** to 🚘 (a car facing upward).
 3. **Adjusted the collision detection boxes** to match the new larger car size.
 4. **Uniformity**: Both the player and obstacle cars are now using the upward-facing car emoji for consistency.
+
+https://github.com/user-attachments/assets/b5d8603b-1008-4d8e-ba30-b99545e6933a
 
 ---
 
@@ -74,6 +80,8 @@ You can continue playing at:
 * **Avoid all obstacles** (cars, potholes, and barricades).
 * **Survive as long as possible** while collecting points.
 
+https://github.com/user-attachments/assets/a76827b8-178e-461f-a7a4-8c7565a7e945
+
 ---
 
 ### Prompt 5: Upward-Facing Player Car
@@ -94,6 +102,8 @@ You can continue playing at:
     * **Inner layer**: A brighter blue tint.
 3. **Increased opacity** of the blue glow for better visibility.
 4. Adjusted the blue tint to be **vibrant and clearly distinct from red**, ensuring no confusion with the obstacle cars.
+
+https://github.com/user-attachments/assets/e3c1e859-83b5-4c88-a262-b8a8e6cde955
 
 ---
 
