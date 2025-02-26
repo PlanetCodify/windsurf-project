@@ -1,4 +1,4 @@
-Used Windsurf To create a game as a user using very minimal prompts. The idea is to evaluate the capability of the AI, which is really good. I have not witnessed the same quality results while using bolt, v0 or lovable interfaces as oon date. This is good! 
+Used Windsurf To create a game as a user using very minimal prompts. The idea is to evaluate the capability of the AI, which is really good. I have not witnessed the same quality results while using bolt, v0 or lovable interfaces yet. This is good! 
 
 I want to understand how close we are to create apps or websites without having any knowledge of code as a user. This will change everything!
 
