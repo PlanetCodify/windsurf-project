@@ -18,9 +18,7 @@ This is a car race game built using JavaScript and HTML. Over time, the game has
 ## Game Prompts and Results - Open Cascade and use the following prompts ->
 
 ### Prompt 1: create a car race game with javascript and html
-#### Result: You can now play the game by opening your web browser and navigating to:  
-**[http://localhost:8000](http://localhost:8000)**
-
+#### Result:
 #### Game Controls:
 * **LEFT ARROW**: Move left
 * **RIGHT ARROW**: Move right
@@ -70,9 +68,6 @@ https://github.com/user-attachments/assets/b5d8603b-1008-4d8e-ba30-b99545e6933a
     * Cars: 1 point.
     * Potholes: 2 points.
     * Barricades: 3 points.
-
-You can continue playing at:  
-**[http://localhost:8001](http://localhost:8001)**
 
 #### Game Controls:
 * **LEFT ARROW**: Move left
